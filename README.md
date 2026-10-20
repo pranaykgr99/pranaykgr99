@@ -20,7 +20,6 @@ with human oversight.
 - 💬 Ask me about: SQL, A/B testing, cohort and funnel analysis, dbt, LangGraph
 
 ### 🛠️ Tech stack
-### 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
