@@ -51,8 +51,4 @@ with human oversight.
 | [Agentic-Data-Pipeline](https://github.com/pranaykgr99/Agentic-Data-Pipeline) | Governed ETL with Dagster, dlt, dbt, and human approval before production |
 | [TalkToData](https://github.com/pranaykgr99/TalkToData) | Natural-language retail analytics with validated SQL and charts |
 
-### 📈 GitHub stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pranaykgr99&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaykgr99&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
