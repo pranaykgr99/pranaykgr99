@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About me
-Data Analyst with 5 years of experience in financial services and product analytics.
+Data Analyst/Engineer with 5 years of experience in financial services and product analytics.
 I analyze customer behavior at scale, run experiments, and automate reporting.
 Outside of work, I build agentic AI systems that plan, query, test, and explain data work
 with human oversight.
